@@ -1,6 +1,6 @@
 # Birthday-Wishing-App
 Birthday Greetings will be displayed after the user enters his/her name.
-## *Harsh Rajotiya*
+## *Nikhil Dahiya*
 
 Birthday Wishing App is used to create nice birthday greetings for your loved ones.
 
