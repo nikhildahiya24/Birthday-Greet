@@ -15,8 +15,6 @@ The following **required** functionality is completed:
 
 
 ## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
 <img src='https://github.com/nikhildahiya24/Birthday-Greet/blob/main/Birthday%20Gif.gif' width = '250' height = '500' />
 
 
